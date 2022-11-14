@@ -1,3 +1,5 @@
-# wjpsschoolhtml
+Images
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/wjpsschoolhtml)
+Logo
+
+https://wjpsschoolhtml.stackblitz.io/completed/images/Ainderby-Steeple-logo.png
