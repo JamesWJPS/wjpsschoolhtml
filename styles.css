@@ -6,7 +6,7 @@ body {
   margin: 0;
   font-family: system-ui, sans-serif;
   color: white;
-  background-color: #3967e5;
+  background-image: url('https://img.freepik.com/premium-vector/pixel-game-background-cubic-pixel-ground-rock-blocks-pattern-eight-bit-arcade-mosaic-vector-backdrop-with-square-pixels-computer-game-level-environment-soil-stone-texture_8071-8759.jpg?w=1800');
 }
 
 nav {
@@ -37,6 +37,13 @@ nav a[aria-current='page'] {
 }
 
 main {
+  padding: 1rem;
+  background-color: #5b3e31cc;
+  margin: 25px;
+  border-radius: 25px;
+}
+
+footer {
   padding: 1rem;
 }
 
