@@ -5,9 +5,10 @@
 body {
   margin: 0;
   font-family: system-ui, sans-serif;
-  color: white;
+  /* Task Set Colour */
+  color: rgb(0, 0, 0);
   /* Task: Set Background Colour */
-  background-color: #3967e5;
+  background-color: #fafafa;
 }
 
 nav {
@@ -42,13 +43,11 @@ main {
 }
 
 /*Task: Add a tag */
-a {
-  color: white;
-}
+
 
 h1 {
   font-weight: bold;
   font-size: 2rem;
-  /* Task: Set color */
-  color: #00d084;
+  /* Task: Set color  #00d084*/
+  color: #000000;
 }
