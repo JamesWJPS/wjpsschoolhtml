@@ -6,6 +6,7 @@ body {
   margin: 0;
   font-family: system-ui, sans-serif;
   color: white;
+  /* Task: Set Colour */
   background-color: #3967e5;
 }
 
@@ -40,8 +41,14 @@ main {
   padding: 1rem;
 }
 
+/*Task: Add a tag */
+a {
+  color: white;
+}
+
 h1 {
   font-weight: bold;
   font-size: 2rem;
+  /* Task: Set color */
   color: #00d084;
 }
